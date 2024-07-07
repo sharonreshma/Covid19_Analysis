@@ -9,7 +9,7 @@ This project aims to analyze the COVID-19 outbreak in India using data science a
 - **Python**: For data analysis and visualization.
 - **Pandas**: For data manipulation and analysis.
 - **Matplotlib & Seaborn**: For data visualization.
-- **MapColor.org**: For geographical visualization.
+- **Mapplotlib.org**: For geographical visualization.
 - **Jupyter Notebook**: For interactive data analysis.
 - **Excel**: For preliminary data examination and manipulation.
 
